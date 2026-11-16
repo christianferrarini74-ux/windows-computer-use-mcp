@@ -1,0 +1,24 @@
+# Build and publish artifacts
+bin/
+obj/
+out/
+test/publish/
+TestResults/
+
+# IDE and editor files
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Local runtime logs and personal policy
+logs/
+*.jsonl
+computer-use.policy.json
+
+# OS files
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/WindowsComputerUse.Core/WindowsComputerUse.Core.csproj" />
+    <Project Path="src/WindowsComputerUse.McpServer/WindowsComputerUse.McpServer.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/WindowsComputerUse.Core.Tests/WindowsComputerUse.Core.Tests.csproj" />
+  </Folder>
+</Solution>

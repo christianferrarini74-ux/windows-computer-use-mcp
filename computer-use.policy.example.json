@@ -1,0 +1,7 @@
+{
+  "mode": "Allowlist",
+  "rules": [
+    { "processName": "notepad.exe" },
+    { "processName": "mspaint.exe" }
+  ]
+}
